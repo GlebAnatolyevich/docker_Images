@@ -2,6 +2,6 @@
 
 ## Установка на корабле используя github
 
-  sudo docker build -t {Наименование контейнера}  github.com/GlebAnatolyevich/docker_images
+  sudo docker build -t {наименование контейнера}  github.com/GlebAnatolyevich/docker_images
   
 
