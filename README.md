@@ -13,6 +13,7 @@ sudo docker start 679bc3a61761
 Вход с оболочкой bash
  sudo docker exec -it vigilant_wright bash
 
+Автоподъем контейнера
 
 
 Ошибка tun
