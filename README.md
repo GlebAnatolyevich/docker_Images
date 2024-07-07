@@ -8,7 +8,9 @@ sudo docker build -t mynginx  github.com/GlebAnatolyevich/docker_images -f myngi
 sudo docker update --restart always vigilant_zhukovsky
 
 
-Создание контейнера
+Создание контейнера из image
+sudo docker run -it openvpn
+Запуск кантейнера
 sudo docker start 679bc3a61761
 
 Вход с оболочкой bash
